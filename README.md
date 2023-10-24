@@ -12,15 +12,15 @@ In this project, you developed a movie recommendation application called "Cinevo
 
 - CSS: CSS was used to customize the visual design of the page. Styling properties like colors, fonts, layouts, and animations were used to design the page's aesthetic appearance.
 
-- JavaScript: JavaScript made the project dynamic. It enabled users to select movie genres, view recommended movies, mark watched movies, and receive movie recommendations. Additionally, you added functionality to save watched movies using local storage.
+- JavaScript: JavaScript made the project dynamic. It enabled users to select movie genres, view recommended movies, mark watched movies, and receive movie recommendations. Additionally, I added functionality to save watched movies using local storage.
 
-- API Integration: You used The Movie Database (TMDb) API to fetch movie data and provide recommendations to users. Through API requests and response handling, you displayed movie data to users.
+- API Integration: I used The Movie Database (TMDb) API to fetch movie data and provide recommendations to users. Through API requests and response handling, I displayed movie data to users.
 
-- LocalStorage Usage: You implemented the functionality to save and load watched movies using local storage. This allowed users to save the movies they watched and access this information when revisiting the page.
+- LocalStorage Usage: I implemented the functionality to save and load watched movies using local storage. This allowed users to save the movies they watched and access this information when revisiting the page.
 
 - Responsive Design: By using CSS, I made the page responsive, ensuring that it adapts to different screen sizes. This made it possible for users to access the application comfortably on various devices.
 
-- Random Movie Recommendation: You added the functionality to recommend a random movie based on a selected movie genre. Users can explore recommended movies and receive different suggestions based on movie genres.
+- Random Movie Recommendation: I added the functionality to recommend a random movie based on a selected movie genre. Users can explore recommended movies and receive different suggestions based on movie genres.
 
 ## Outcome:
 
