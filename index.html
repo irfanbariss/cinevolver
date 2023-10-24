@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Cinevolver</title>
+  </head>
+  <body>
+    <header>
+      <div class="header-content">
+        <a href="/"><img src="./imgs/cinevolver.png" /> </a>
+        <h2>Cinevolver</h2>
+      </div>
+      <form action="" id="form"></form>
+    </header>
+
+    <!--genre options like horor comedy etc-->
+    <div id="genre-tags">
+      <div class="tag">Action</div>
+      <div class="tag">Adventure</div>
+      <div class="tag">Drama</div>
+      <div class="tag">Comedy</div>
+    </div>
+    <main id="main">
+      <div class="movie">
+        <img
+          src="https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+          alt="Image"
+        />
+
+        <div class="movie-info">
+          <h3>Movie Title</h3>
+          <span class="green">9.8</span>
+          <!--for the ratings. it will change based on the rating-->
+        </div>
+        <div class="overview">
+          <h3>Overview</h3>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
+          quisquam deserunt dolorem hic doloribus fugit corporis laborum cumque
+          sed maxime!
+        </div>
+      </div>
+    </main>
+    <div class="buttons">
+      <button class="buton watched">Watched</button>
+      <button class="buton suggest-another">Suggest Another</button>
+    </div>
+    <p class="watched-message"></p>
+    <div id="watched-movies">
+      <h2 class="watched-heading" style="display: none">Watched Movies</h2>
+      <div class="watched-movie-list">
+        <!-- Burada izlenen filmler listelenecek -->
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
