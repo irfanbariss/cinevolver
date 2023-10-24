@@ -1,5 +1,5 @@
-# cinevolver
-#Cinevolver - Movie Recommendation App
+
+# Cinevolver - Movie Recommendation App
 ![Cinevolver](https://github.com/irfanbariss/cinevolver/assets/129832202/a76b6700-9d5d-4b20-8122-1c8f4b2971ba)
 
 ## Project Summary:
