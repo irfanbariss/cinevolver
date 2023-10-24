@@ -4,7 +4,7 @@
 
 ## Project Summary:
 
-In this project, you developed a movie recommendation application called "Cinevolver" using HTML, CSS, and JavaScript. This application suggests movies to users based on specific genres and allows them to mark watched movies.
+In this project, I developed a movie recommendation application called "Cinevolver" using HTML, CSS, and JavaScript. This application suggests movies to users based on specific genres and allows them to mark watched movies.
 
 ##Techniques Used:
 
