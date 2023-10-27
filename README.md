@@ -1,7 +1,7 @@
 
 # Cinevolver - Movie Recommendation App
 ![Cinevolver](https://github.com/irfanbariss/cinevolver/assets/129832202/a76b6700-9d5d-4b20-8122-1c8f4b2971ba)
-
+https://irfanbariss.github.io/cinevolver/
 ## Project Summary:
 
 In this project, I developed a movie recommendation application called "Cinevolver" using HTML, CSS, and JavaScript. This application suggests movies to users based on specific genres and allows them to mark watched movies.
